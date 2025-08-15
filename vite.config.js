@@ -2,6 +2,6 @@ import { defineConfig } from 'vite'
 
 export default defineConfig({
     server: {
-        allowedHosts: ['vite.zubair.click'],
+        allowedHosts: ['games.zubairiz.com', 'match-the-pairs-js.vercel.app', 'vite.zubair.click'],
     }
 })
